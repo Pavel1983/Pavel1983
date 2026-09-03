@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pavel
 - 👀 I’m interested in game development using Unity3d. Also I like chess.
 - 🌱 I’m currently learning ECS and working on ECS-project.
-- 📫 How to reach me: p.totolin@gmail.com
 
 
 <!---
